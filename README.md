@@ -1,5 +1,7 @@
 # Tumblr-Redirector
-A simple bit of code that redirects posts when you change your url.
+A simple bit of code that redirects posts when you change your url. So when people try to visit posts on your old url, they don't have to search for the correct post at your new url. 
+
+There's no fancy redirect page, it just automatically redirects to the new url. You can modify and incorporate this into your redirect page theme if you'd like.
 
 ## Instructions
 Edit your theme code, copy/paste everything from code.html, and replace your current theme code with it.

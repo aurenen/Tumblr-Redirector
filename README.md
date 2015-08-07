@@ -2,6 +2,8 @@
 A simple bit of code that redirects posts when you change your url.
 
 ## Instructions
+Edit your theme code, copy/paste everything from code.html, and replace your current theme code with it.
+
 Find the following line:
 > OLDURL is now at NEWURL
 

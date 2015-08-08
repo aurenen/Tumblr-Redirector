@@ -15,3 +15,5 @@ Find this line:
 > var username = "NEWURL";
 
 And replace NEWURL with your actual new url, do not remove the quotes.
+
+\* *note: tumblr jargon aside, when I say "url" I mean only the bolded: http://**url**.tumblr.com

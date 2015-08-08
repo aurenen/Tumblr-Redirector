@@ -16,4 +16,4 @@ Find this line:
 
 And replace NEWURL with your actual new url, do not remove the quotes.
 
-\* *note: tumblr jargon aside, when I say "url" I mean only the bolded: http://**url**.tumblr.com
+\* *note: tumblr jargon aside, when I say "url" I mean only the bolded: http://**url**.tumblr.com, if you paste in the full url path it will break the script.

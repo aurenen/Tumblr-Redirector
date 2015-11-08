@@ -11,14 +11,11 @@ https://github.com/aurenen/Tumblr-Redirector
     <meta charset="UTF-8">
     <title>OLDURL is now at NEWURL</title>
     <script>
-        var username = "NEWURL";
+        function redirect() {
+            window.location.replace("http://NEWURL." + window.location.pathname);
+        }
 
-        var url = window.location.href;
-
-        var pos = url.indexOf(".tumblr.com");
-        var newurl = "http://" + username + url.substr(pos);
-
-        window.location = newurl;
+        setTimeout(redirect, 3000); // time in miliseconds
     </script>
 </head>
 <body>

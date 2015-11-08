@@ -12,8 +12,6 @@ Find the following line:
 And replace it with the correct urls
 
 Find this line:
-> window.location.replace("http://NEWURL." + window.location.pathname);
+> window.location.replace("http://NEWURL.tumblr.com" + window.location.pathname);
 
 And replace NEWURL with your actual new url, do not remove the quotes.
-
-\*\* *note: tumblr jargon aside, when I say "url" I mean only the bolded: http://__url__.tumblr.com, if you paste in the full url path it will break the script.*
